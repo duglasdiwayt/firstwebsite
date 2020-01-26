@@ -1,0 +1,16 @@
+.email {
+	text-align: center;
+	font-size: 30px;
+}
+
+.image-column {
+	clip-path: circle();
+}
+
+.img-responsive {
+	transition: all 1s;
+}
+
+.img-responsive:hover {
+	transform: scale(1.1);
+}
